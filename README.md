@@ -9,7 +9,7 @@ The GOD-Benchmark contains the following content:
 - test-dataset metadata
 - readme 
 
-The GOD-poj104.zip consists of about 52,000 code graphs divided into 104 groups, and each graph data contains several files:
+The GOD-poj104.7z consists of about 52,000 code graphs divided into 104 groups, and each graph data contains several files:
 - .ast file: describes the graphical structure as an edges list.
 - .nodes file: stores the features of nodes of the graph.
 - .gt fils: provides the ground-truth data if the graph contains objects of interest.
